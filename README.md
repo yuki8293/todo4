@@ -7,7 +7,7 @@ laravel を用いて作成した Todo アプリです。
 #### リポジトリをクローン
 
 ```
-git clone git@github.com:Estra-Coachtech/laravel-docker-template.git
+git clone git@github.com:yuki8293/todo4.git
 ```
 
 #### Laravel のビルド
